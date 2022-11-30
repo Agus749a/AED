@@ -1,0 +1,28 @@
+--------------------------------------------------------
+*****NUMERO DE BOLETA****** : 1
+Direccion: Peron_1609           Nombre y apellido: Agustin_Pacheco
+Razon social: MaxiLosAmigos             Numero de telefono: 116819825
+
+Listado de productos: 
+	
+Codigo de producto: 0
+	Nombre del producto: Marroc
+	Precio por unidad: 1790$   CANTIDAD: 2
+Se aplicara un: 5'%' de descuento
+Precio total: 3401$
+--------------------------------------------------------
+*****NUMERO DE BOLETA****** : 2
+Direccion: suviria_90           Nombre y apellido: Juan_Pacheco
+Razon social: goloteca_hola             Numero de telefono: 1157460135
+
+Listado de productos: 
+	
+Codigo de producto: 6
+	Nombre del producto: Medallon_Menta
+	Precio por unidad: 1476$   CANTIDAD: 2
+	
+Codigo de producto: 0
+	Nombre del producto: Marroc
+	Precio por unidad: 1790$   CANTIDAD: 1
+Se aplicara un: 10'%' de descuento
+Precio total: 4268$
